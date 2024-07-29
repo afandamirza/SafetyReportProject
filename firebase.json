@@ -1,0 +1,36 @@
+{
+  "flutter": {
+    "platforms": {
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "safetyreportproject",
+          "configurations": {
+            "android": "1:54175991750:android:4a9efd567f0ca914aa54c7",
+            "ios": "1:54175991750:ios:5849b137608f8334aa54c7",
+            "macos": "1:54175991750:ios:5849b137608f8334aa54c7",
+            "web": "1:54175991750:web:4e73f56e9d0a4a2caa54c7",
+            "windows": "1:54175991750:web:5c08d62cfe407eb6aa54c7"
+          }
+        }
+      },
+      "android": {
+        "default": {
+          "projectId": "safetyreportproject",
+          "appId": "1:54175991750:android:4a9efd567f0ca914aa54c7",
+          "fileOutput": "android/app/google-services.json"
+        }
+      }
+    }
+  },
+  "hosting": {
+    "source": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "frameworksBackend": {
+      "region": "asia-east1"
+    }
+  }
+}

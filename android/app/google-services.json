@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "54175991750",
+    "project_id": "safetyreportproject",
+    "storage_bucket": "safetyreportproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54175991750:android:4a9efd567f0ca914aa54c7",
+        "android_client_info": {
+          "package_name": "com.example.safetyreport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfwf9TFemxIZyKgFZ_NW-FcVXx4Dr0REE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
