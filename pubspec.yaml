@@ -49,6 +49,8 @@ dependencies:
   flutter_launcher_icons: ^0.13.1
   syncfusion_flutter_datepicker: ^26.1.42
   flutter_downloader: ^1.11.8
+  firestore_ui: ^1.30.0
+  logging: ^1.2.0
 
 dev_dependencies:
   flutter_test:
